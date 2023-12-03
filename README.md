@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bagus Rinu</h1>
-<h3 align="center">Minimal Kasih Info Wak / At Least Give Me Some News Bruh</h3>
+<h3 align="center">Tryna Be Better Bruh🙈</h3>
 
 - 👨‍💻 All of my projects are available at [https://bagusrinu.netlify.app/](https://bagusrinu.netlify.app/)
 

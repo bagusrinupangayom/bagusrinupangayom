@@ -9,7 +9,6 @@
 
 <p align="left">
 <a href="https://github.com/bagusrinupangayom">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagusrinupangayom&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bagusrinupangayom&layout=compact&langs_count=8&theme=default"/>
 </a>
 </p>

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bagus Rinu</h1>
+<h1 align="center">Hi 👋, I'm Bagus</h1>
 
 - 👨‍💻 All of my projects are available at [https://bagusrinu.netlify.app/](https://bagusrinu.netlify.app/)
 
